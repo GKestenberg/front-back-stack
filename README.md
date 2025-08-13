@@ -2,6 +2,12 @@
 
 A real-time messaging application built with Go (backend) and Next.js (frontend).
 
+> **⚠️ Development & Testing Project**  
+> This is an experimental project created for development testing and deployment
+> experimentation purposes. It is not intended for production use and may
+> contain security vulnerabilities, incomplete features, or unstable code. Use
+> at your own risk.
+
 ## Project Structure
 
 ```
