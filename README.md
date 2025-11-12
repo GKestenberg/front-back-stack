@@ -1,6 +1,6 @@
 # Full-Stack Messaging App
 
-Change 2
+Change 3
 
 A real-time messaging application built with Go (backend) and Next.js (frontend).
 
